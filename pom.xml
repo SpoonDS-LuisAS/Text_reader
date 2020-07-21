@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <name>Text_reader</name>
+    <description>exercise</description>
+    <groupId>spoonds</groupId>
+    <artifactId>Text_readerx</artifactId>
+    <packaging>pom</packaging>
+    <version>0.1.0-SNAPSHOT</version>
+    <url>https://github.com/SpoonDS-LuisAS/Text_reader/tree/master</url>
+
+    <modules>
+        <module>Core</module>
+    </modules>
+
+</project>
